@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Django
+/media/
+staticfiles/
+
+# Angular
+/node_modules/
+/dist/
+/.angulardoc.json
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
